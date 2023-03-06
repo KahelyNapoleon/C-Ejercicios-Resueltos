@@ -1,0 +1,15 @@
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\bin\Debug\net7.0\Metodos.exe
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\bin\Debug\net7.0\Metodos.deps.json
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\bin\Debug\net7.0\Metodos.runtimeconfig.json
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\bin\Debug\net7.0\Metodos.dll
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\bin\Debug\net7.0\Metodos.pdb
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.csproj.AssemblyReference.cache
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.AssemblyInfo.cs
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.dll
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\refint\Metodos.dll
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.pdb
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\Metodos.genruntimeconfig.cache
+C:\Users\WeigthlifeR Pro\OneDrive\Escritorio\CursoCSharp\Metodos\obj\Debug\net7.0\ref\Metodos.dll
